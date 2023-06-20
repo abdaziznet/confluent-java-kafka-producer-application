@@ -1,0 +1,1 @@
+/app/resources:/app/classes:/app/libs/slf4j-simple-2.0.7.jar:/app/libs/kafka-clients-3.4.0.jar:/app/libs/slf4j-api-2.0.7.jar:/app/libs/zstd-jni-1.5.2-1.jar:/app/libs/lz4-java-1.8.0.jar:/app/libs/snappy-java-1.1.8.4.jar
